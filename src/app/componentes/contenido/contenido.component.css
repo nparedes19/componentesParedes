@@ -1,0 +1,32 @@
+.boxProducto{
+    display: flex;
+    margin-top: 20px;
+    width: 900px;
+    position: absolute;
+    top: 380px;
+    left: 50%;
+    transform: translate(-50%, -50%)
+
+}
+
+.boxProducto1{
+    display: flex;
+    margin-top: 20px;
+    width: 900px;
+    position: absolute;
+    top: 913px;
+    left: 50%;
+    transform: translate(-50%, -50%)
+
+}
+
+
+
+.card-img-top{
+    height: 250px;
+    width: auto;
+}
+
+.card{
+    margin-left: 25px;
+}
